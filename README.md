@@ -2,7 +2,7 @@
 
 Pipeline of the project is as follows:
 
-!(pipeline)[https://drive.google.com/file/d/1wtitXv2pdxmzLFUrl1hkdGY2LxwCIr8z/view?usp=sharing]
+![](https://drive.google.com/uc?export=view&id=1wtitXv2pdxmzLFUrl1hkdGY2LxwCIr8z)
 
 In the first step, audio was extracted from the video file.
 
