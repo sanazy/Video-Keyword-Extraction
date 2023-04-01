@@ -1,4 +1,4 @@
-# Video-Keyword-Extraction
+# Keyword Extraction from Persian Videos
 
 Pipeline of the project is as follows:
 
